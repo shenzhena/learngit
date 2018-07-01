@@ -9,3 +9,4 @@ the first
 the second
 the third
 now is the new begin
+but my purpose is to destroy
